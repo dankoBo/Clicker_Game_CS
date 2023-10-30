@@ -1,3 +1,6 @@
+# Clicker_Game_CS
+GitHub Pages: https://dankobo.github.io/Clicker_Game_CS/
+
 Before using these methods, the project must be opened in your code editor.
 
 This program can be launched using:
